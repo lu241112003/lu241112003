@@ -1,82 +1,108 @@
-# 👋 Olá, Sou Ronald Lucas!
-
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+👋;Engenheiro+de+Software+Júnior+👨🏽‍💻;Apaixonado+por+tecnologia+e+código!+🚀;Sempre+aprendendo+algo+novo!+📚)
-
-</div>
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
-</div>
-
-## 🚀 Sobre Mim
-
 <div align="center">
 
-<table style="border: none; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.1);">
-  <tr>
-    <td style="border: none; text-align: center; color: white; font-size: 16px;">
-      🔭 Atualmente trabalho como <strong>Engenheiro de Software Júnior</strong><br><br>
-      🌱 Estudando <strong>Python</strong> e <strong>JavaScript</strong> avançado<br><br>
-      💬 Pergunte-me sobre <strong>React</strong>, <strong>Node.js</strong> e <strong>FastAPI</strong><br><br>
-      ⚡ Fato divertido: Adoro resolver problemas complexos com código simples!
-    </td>
-  </tr>
-</table>
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bcd4,100:0d1117&height=200&section=header&text=Ronald%20Lucas&fontSize=60&fontColor=00bcd4&fontAlignY=38&desc=Engenheiro%20de%20Software%20Júnior&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&multiline=false&width=600&lines=Transformando+dados+em+decisões+🚀;Engenheiro+de+Software+Júnior+👨🏽‍💻;Python+%7C+JavaScript+%7C+TypeScript+%7C+C%23;React+%7C+Node.js+%7C+FastAPI+%7C+Django" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-lucas-16624a205/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasronald533@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_r.lucz_)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wagxzStdcR)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541987828512)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ronaldlucas&color=00bcd4&style=flat-square&label=Visitas+ao+perfil)
 
 </div>
 
 ---
 
+## 🧑🏽‍💻 Sobre Mim
+
+```typescript
+const ronald: Developer = {
+  nome:        "Ronald Lucas",
+  cargo:       "Engenheiro de Software Júnior",
+  localização: "Curitiba, PR 🇧🇷",
+  linguagens:  ["JavaScript", "TypeScript", "Python", "C#"],
+
+  frontend: {
+    frameworks: ["React", "Next.js"],
+    styling:    ["Tailwind CSS", "Bootstrap", "Styled Components"],
+  },
+
+  backend: {
+    python: ["FastAPI", "Django", "Flask"],
+    js:     ["Node.js", "Express.js"],
+  },
+
+  banco_de_dados: ["PostgreSQL", "MongoDB", "MySQL"],
+  ferramentas:    ["Docker", "Git", "AWS", "Firebase", "Postman"],
+
+  foco_atual:   "Cloud Computing & Microserviços",
+  aprendendo:   ["Python avançado", "JavaScript avançado"],
+  fun_fact:     "Há duas formas de escrever código sem bugs. Só a terceira funciona.",
+};
+```
+
+---
+
 ## 🛠️ Stack Tecnológica
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
-  <tr>
-    <td align="center" style="background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%); border-radius: 15px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.1);">
-      <h3 style="color: white; margin: 0 0 15px 0;">🌐 Frontend</h3>
-      <div>
-        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      </div>
-    </td>
-    <td align="center" style="background: linear-gradient(135deg, #4ecdc4 0%, #44a08d 100%); border-radius: 15px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.1);">
-      <h3 style="color: white; margin: 0 0 15px 0;">⚙️ Backend</h3>
-      <div>
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-        <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-        <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-        <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 15px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.1);">
-      <h3 style="color: #333; margin: 0 0 15px 0;">🗄️ Banco de Dados</h3>
-      <div>
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-      </div>
-    </td>
-    <td align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.1);">
-      <h3 style="color: white; margin: 0 0 15px 0;">🛠️ Ferramentas</h3>
-      <div>
-        <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-        <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-        <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ronaldlucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00bcd4&icon_color=00bcd4&text_color=8b949e"/>
+</a>
+<a href="https://github.com/ronaldlucas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldlucas&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=8b949e"/>
+</a>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ronaldlucas&theme=dark&hide_border=true&background=0d1117&stroke=00bcd4&ring=00bcd4&fire=ff6b35&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=00bcd4&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
@@ -84,73 +110,35 @@
 
 ## 🐍 Contribution Snake
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake.svg">
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronaldlucas/ronaldlucas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronaldlucas/ronaldlucas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ronaldlucas/ronaldlucas/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+</div>
+
+---
 
 ## 🎯 Objetivos Atuais
 
-<div align="center">
-
-```javascript
-const ronald = {
-  code: ["JavaScript", "Python", "TypeScript", "C#"],
-  askMeAbout: ["web dev", "tech", "app dev", "photography"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind", "Bootstrap", "Styled Components"]
-    },
-    backEnd: {
-      python: ["Django", "FastAPI", "Flask"],
-      js: ["Node", "Express"],
-    },
-    databases: ["PostgreSQL", "MongoDB", "MySQL"],
-    misc: ["Docker", "AWS", "Firebase"]
-  },
-  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-  currentFocus: "Aprofundar conhecimentos em Cloud Computing e Microserviços",
-  funFact: "Há duas maneiras de escrever programas sem bugs: apenas a terceira funciona"
-};
-```
-
-</div>
-
----
-
-## 📫 Como Me Encontrar
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_r.lucz_)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wagxzStdcR)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasronald533@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-lucas-16624a205/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541987828512)
-
-</div>
+- 🔭 Trabalhando como **Engenheiro de Software Júnior**
+- 🌱 Aprofundando em **Cloud Computing** e **Microserviços**
+- 📦 Estudando **Python avançado** e **JavaScript avançado**
+- 💬 Disponível para conversar sobre **React**, **Node.js** e **FastAPI**
+- 🤝 Buscando oportunidades de contribuir em projetos **open source**
+- ⚡ Acredito que boas soluções nascem de código simples e bem pensado
 
 ---
 
 <div align="center">
-  
-### 💭 Frase de Inspiração
 
-*"O código é como o humor. Quando você tem que explicá-lo, é ruim."* - Cory House
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bcd4,100:0d1117&height=100&section=footer" width="100%"/>
 
-</div>
+*"O código é como o humor. Quando você tem que explicá-lo, é ruim."* — Cory House
 
-<div align="center">
-  
-![Profile views](https://komarev.com/ghpvc/?username=ronaldlucas&color=brightgreen&style=for-the-badge)
+**⭐ Se algum repositório te ajudou, deixa uma estrela! Significa muito 😊**
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Adoro me conectar com pessoas diferentes</b>, então se você quiser dizer <b>oi, ficarei feliz em conhecê-lo mais!</b> 😊</em>
 </div>
