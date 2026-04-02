@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 🧑🏽‍💻 Ronald Lucas
 
@@ -6,7 +6,7 @@
 
 **Focado em transformar código em soluções reais (Dev & Tech)**
 
-Sou formado em Análise e Desenvolvimento de Sistemas e, atualmente, estou unindo minha base técnica com a paixão pelo desenvolvimento full stack e automação. Estudo constantemente para criar sistemas robustos, escaláveis e que resolvam problemas reais.
+Sou estudante de engenharia de software, atualmente estou unindo minha base técnica com a paixão pelo desenvolvimento full stack e automação. Estudo constantemente para criar sistemas robustos, escaláveis e que resolvam problemas reais.
 
 Acredito que o código é o meio, mas a experiência do usuário é o que define o sucesso de um produto. Por isso, foco meus estudos em transformar boas ideias em soluções bem construídas.
 
@@ -34,8 +34,6 @@ Acredito que o código é o meio, mas a experiência do usuário é o que define
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -51,11 +49,19 @@ Acredito que o código é o meio, mas a experiência do usuário é o que define
 
 <div align="center">
 
-<a href="https://github.com/lu241112003">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lu241112003&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=percentile"/>
-</a>
-<a href="https://github.com/lu241112003">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu241112003&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-</a>
+  <img src="https://streak-stats.demolab.com/?user=lu241112003&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=58a6ff" />
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lu241112003&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lu241112003&theme=github_dark" />
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lu241112003&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lu241112003&theme=github_dark&utcOffset=-3" />
+
+  <br/><br/>
+
 
 </div>
