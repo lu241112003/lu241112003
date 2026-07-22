@@ -20,7 +20,7 @@ Acredito que o código é o meio, mas a experiência do usuário é o que define
 [![Estrelas](https://img.shields.io/github/stars/ronaldlcs?label=ESTRELAS&style=flat-square&color=0969da)](https://github.com/ronaldlcs)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-lucas-16624a205/)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wagxzStdcR)
-[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-FF4500?style=flat-square)]([https://github.com/ronaldlcs](https://lively-melba-959843.netlify.app/))
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-FF4500?style=flat-square)]([https://github.com/ronaldlcs](https://lively-melba-959843.netlify.app/)
 
 ---
 
